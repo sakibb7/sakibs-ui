@@ -6,6 +6,7 @@ export default function page() {
     <div>
       <Link href="/">Home</Link>
       <Link href="/tabs">Tabs</Link>
+      <Link href="/dropdown">Drop Down</Link>
     </div>
   );
 }
